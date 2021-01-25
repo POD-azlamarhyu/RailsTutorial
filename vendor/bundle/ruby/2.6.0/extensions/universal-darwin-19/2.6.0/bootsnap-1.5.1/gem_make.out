@@ -1,0 +1,16 @@
+current directory: /Users/azlamarhyu/Document/prog/Ruby/Rails/tutorial/toyapp/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.5.1/ext/bootsnap
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20210125-73096-15nfl2r.rb extconf.rb
+creating Makefile
+
+current directory: /Users/azlamarhyu/Document/prog/Ruby/Rails/tutorial/toyapp/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.5.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/azlamarhyu/Document/prog/Ruby/Rails/tutorial/toyapp/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.5.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.Internal.sdk/usr/local/lib'
+
+current directory: /Users/azlamarhyu/Document/prog/Ruby/Rails/tutorial/toyapp/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.5.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210125-73096-sxjaah/bootsnap
